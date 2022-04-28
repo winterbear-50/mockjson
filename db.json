@@ -1,6 +1,6 @@
 
 {
-  "product1": [
+  "products": [
     {
         "id": 1,
         "title": "Samsung S21",
@@ -8,9 +8,9 @@
         "price": "2500₹",
        
         "quantity": 1
-      }
-    ],
-    "product2": [
+      },
+    
+   
 
       {
         "id": 2,
@@ -19,9 +19,8 @@
         "price": "2300₹",
        
         "quantity": 1
-      }
-    ],
-    "product3": [
+      },
+   
 
       {
         "id": 3,
@@ -30,9 +29,8 @@
         "price": "3500₹",
         
         "quantity": 1
-      }
-    ],
-    "product4": [
+      },
+    
 
       {
         "id": 4,
@@ -41,9 +39,8 @@
         "price": "90500₹",
         
         "quantity": 1
-      }
-    ],
-    "product5": [
+      },
+    
 
       {
         "id": 5,
