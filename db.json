@@ -2,7 +2,7 @@
 	"products": [{
 			"id": 1,
 			"title": "Samsung S21",
-			"image": "file:///C:/Users/T5203NP/Downloads/anh-nhat-PdALQmfEqvE-unsplash.jpg",
+			"image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 			"price": "₹53,990",
 			"description": "Description: Pro-grade Camera with AI Single Take, Portrait Mode, Night Mode and 30X Space zoom. Dual Recording: Film in both wide and selfie angles at the same time",
 			"specification": "Specifications: 8 GB RAM | 128 GB ROM : 16.26 cm (6.4 inch) Display : 32MP Rear Camera : 4500 mAh Battery",
