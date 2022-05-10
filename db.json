@@ -3,7 +3,7 @@
 			"id": 1,
 			"title": "Samsung S21",
 			"image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-			"price": 53,990,
+			"price": 53990,
 			"description": " Pro-grade Camera with AI Single Take, Portrait Mode, Night Mode and 30X Space zoom. Dual Recording: Film in both wide and selfie angles at the same time",
 			"specification": "8 GB RAM | 128 GB ROM : 16.26 cm (6.4 inch) Display : 32MP Rear Camera : 4500 mAh Battery",
 
@@ -16,7 +16,7 @@
 			"id": 2,
 			"title": "Samsung M21",
 			"image": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-			"price": 14,290,
+			"price": 14290,
 			"description": " 48MP (F2.0) Main Camera +8MP (F2.2) Ultra Wide Camera +5MP(F2.2) Depth Camera | 20MP (F2.2) front facing camera 16.21 centimeters (6.4-inch) FHD+ capacitive",
 			"specification": " 4 GB RAM | 64 GB ROM | Expandable Upto 512 GB : 16.26 cm (6.4 inch) Full HD+ Display : 48MP + 8MP + 5MP | 20MP Front Camera : 6000 mAh Battery: Exynos 9611-Octa Core processor Processor",
 
@@ -29,7 +29,7 @@
 			"id": 3,
 			"title": "Redmi 9",
 			"image": "https://images-na.ssl-images-amazon.com/images/I/71A9Vo1BatL._SL1500_.jpg",
-			"price": 9,644,
+			"price": 9644,
 			"description": " Redmi 9 Activ – More RAM Activ Fun supports your efficiency to multitask with its 6GB and 4GB RAM variants that delivers fast and smooth processing whi.le gaming, online streaming and video calling all at once.",
 			"specification": " 4 GB RAM | 64 GB ROM : 16.51 cm (6.5 inch) HD Display: 13MP Rear Camera: 5000 mAh Battery : 2.3GHz Octa-Core Processor Processor",
 
@@ -41,7 +41,7 @@
 			"id": 4,
 			"title": "Iphone 12",
 			"image": "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
-			"price": 65,199,
+			"price": 65199,
 			"description": " Industry-leading IP68 Water Resistance, all Screen OLED Display, 12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR Recording.",
 			"specification": "128 GB ROM: 15.49 cm (6.1 inch) Super Retina XDR Display: 12MP + 12MP | 12MP Front Camera: A14 Bionic Chip with Next Generation Neural Engine Processor",
 
@@ -53,7 +53,7 @@
 			"id": 5,
 			"title": "Iphone 13 Pro Max",
 			"image": "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
-			"price": 1,59,900,
+			"price": 159900,
 			"description": " Dual 12MP Rear Camera captures stunning photos,A15 Bionic Chip ensures faster-processing speed,Cinematic Mode creates beautiful cinematic effects",
 			"specification": " 512 GB ROM: 17.02 cm (6.7 inch) Super Retina XDR Display: 12MP + 12MP + 12MP | 12MP Front CameraA15 Bionic Chip Processor",
 
