@@ -1,54 +1,63 @@
-
 {
-  "products": [
-    {
-        "id": 1,
-        "title": "Samsung S21",
-        "description": "black in color",
-        "price": "2500₹",
-       
-        "quantity": 1
-      },
-    
-   
+	"products": [{
+			"id": 1,
+			"title": "Samsung S21",
+			"image": "file:///C:/Users/T5203NP/Downloads/anh-nhat-PdALQmfEqvE-unsplash.jpg",
+			"price": "₹53,990",
+			"description": "Pro-grade Camera with AI Single Take, Portrait Mode, Night Mode and 30X Space zoom. Dual Recording: Film in both wide and selfie angles at the same time",
 
-      {
-        "id": 2,
-        "title": "Samsung M21",
-        "description": "white in color",
-        "price": "2300₹",
-       
-        "quantity": 1
-      },
-   
 
-      {
-        "id": 3,
-        "title": "Redmi 9",
-        "description": "black in color",
-        "price": "3500₹",
-        
-        "quantity": 1
-      },
-    
+			"quantity": 3
+		},
 
-      {
-        "id": 4,
-        "title": "Iphone 12",
-        "description": "Best mobile ever",
-        "price": "90500₹",
-        
-        "quantity": 1
-      },
-    
 
-      {
-        "id": 5,
-        "title": "Samsung S21",
-        "description": "black in color",
-        "price": "2500₹",
-       
-        "quantity": 1
-      }
-    ]
-  }
+
+		{
+			"id": 2,
+			"title": "Samsung M21",
+			"image": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"price": "₹14,290",
+			"description": "48MP (F2.0) Main Camera +8MP (F2.2) Ultra Wide Camera +5MP(F2.2) Depth Camera | 20MP (F2.2) front facing camera 16.21 centimeters (6.4-inch) FHD+ capacitive",
+
+
+
+			"quantity": 3
+		},
+
+
+		{
+			"id": 3,
+			"title": "Redmi 9",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71A9Vo1BatL._SL1500_.jpg",
+			"price": "₹9,644",
+			"description": "Redmi 9 Activ – More RAM Activ Fun supports your efficiency to multitask with its 6GB and 4GB RAM variants that delivers fast and smooth processing whi.le gaming, online streaming and video calling all at once.",
+
+
+			"quantity": 3
+		},
+
+
+		{
+			"id": 4,
+			"title": "Iphone 12",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
+			"price": "₹65,199",
+			"description": "Industry-leading IP68 Water Resistance, all Screen OLED Display, 12MP TrueDepth Front Camera with Night Mode, 4K Dolby Vision HDR Recording.",
+
+
+			"quantity": 3
+		},
+
+
+		{
+			"id": 5,
+			"title": "Iphone 13 Pro Max",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/71hIfcIPyxS._SL1500_.jpg",
+			"price": "₹1,59,900",
+			"description": "Dual 12MP Rear Camera captures stunning photos,A15 Bionic Chip ensures faster-processing speed,Cinematic Mode creates beautiful cinematic effects",
+
+
+			"quantity": 3
+		}
+	]
+}
