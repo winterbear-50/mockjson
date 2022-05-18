@@ -169,56 +169,6 @@
 			"stars": 4.6,
 			"quantity": 5
 		}
-	],
-	"fragrances": [{
-		"id": 16,
-		"title": "Impression of Acqua Di Gio perfume Oil",
-		"image": "https://dummyjson.com/image/i/products/11/thumbnail.jpg",
-		"price": 499,
-		"description": "Impression of Acqua Di Gio by GiorgioArmani.",
-		"specification": " Mega Discount|| concentrated attar perfume Oil",
-		"total_reviews": 7899,
-		"stars": 4.2,
-		"quantity": 5
-	}, {
-		"id": 17,
-		"title": "Royal Mirage Brown Perfume",
-		"image": "https://dummyjson.com/image/i/products/12/thumbnail.jpg",
-		"price": 799,
-		"description": "The perfume accord is the backbone of the fragrance and consists of the main building blocks of the scent or olfactive creation.",
-		"specification": "Royal Mirage Sport Brown Perfume for Men & Women - 120ml",
-		"total_reviews": 52669,
-		"stars": 4.4,
-		"quantity": 5
-	}, {
-		"id": 18,
-		"title": "Fogg Scent Xpressio Perfume",
-		"image": "https://dummyjson.com/image/i/products/13/thumbnail.webp",
-		"price": 299,
-		"description": "Product details of Best Fog Scent Xpressio For Men cool long lasting perfumes for Men",
-		"specification": " Fog Scent Xpressio Perfume 100ml.",
-		"total_reviews": 48966,
-		"stars": 4.0,
-		"quantity": 5
-	}, {
-		"id": 19,
-		"title": "Al Munakh Non-Alcoholic Concentrated Perfume Oil",
-		"image": "https://dummyjson.com/image/i/products/14/thumbnail.jpg",
-		"price": 1199,
-		"description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate",
-		"specification": "6ml Non-Alcoholic Concentrated Perfume Oil",
-		"total_reviews": 4588,
-		"stars": 4.6,
-		"quantity": 5
-	}, {
-		"id": 20,
-		"title": "Lord - Al-Rehab Eau De Perfume Spray",
-		"image": "https://dummyjson.com/image/i/products/15/thumbnail.jpg",
-		"price": 999,
-		"description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen ",
-		"specification": "High Quality || 120ml || Long lasting fragrance",
-		"total_reviews": 42,
-		"stars": 3.8,
-		"quantity": 5
-	}]
+	]
+	
 }
